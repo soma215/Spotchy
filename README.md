@@ -12,4 +12,4 @@ What Spotchy Does :
 
 -> Fits seamlessly into your development pipeline
 
--> Makes 
+-> Makes security less boring... more Spotchy
