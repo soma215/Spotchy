@@ -1,4 +1,15 @@
-# Spotchy
+Spot it. Patch it. Stay secure.
 
-Spotchy is a Web Application Security Assessment project targeting intentionally vulnerable apps
-It focuses on threat modeling, vulnerability discovery (OWASP Top 10), and Secure SDLC practices, with final reporting of findings and fixes.
+Your buddy for Web Application Security Assessment & Secure SDLC Integration.
+
+Spotchy is the tool that spots vulnerabilities before attackers do and helps you patch them smartly along the way.
+
+What Spotchy Does :
+
+-> Finds and highlights vulnerabilities in web applications
+
+-> Encourages secure coding habits within your team
+
+-> Fits seamlessly into your development pipeline
+
+-> Makes 
